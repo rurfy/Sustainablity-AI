@@ -24,7 +24,6 @@
 !cfg/yolov3*.cfg
 
 storage.googleapis.com
-runs/*
 data/*
 data/images/*
 !data/*.yaml
@@ -34,8 +33,6 @@ data/images/*
 !data/images/zidane.jpg
 !data/images/bus.jpg
 !data/*.sh
-
-results*.csv
 
 # Datasets -------------------------------------------------------------------------------------------------------------
 coco/
@@ -49,7 +46,6 @@ VOC/
 
 # Neural Network weights -----------------------------------------------------------------------------------------------
 *.weights
-*.pt
 *.pb
 *.onnx
 *.engine
@@ -91,7 +87,7 @@ wheels/
 /wandb/
 .installed.cfg
 *.egg
-
+carbontracking-yolo/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
