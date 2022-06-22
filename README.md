@@ -8,7 +8,7 @@ Dies ist das Repository, welches den Blogpost [Sustainable AI - wie umweltfreund
 
 Um das Repository nutzen zu können, muss es geklont und Python Bibliotheken installiert werden:
 
-`git clone [https://github.com/rurfy/Sustainablity-AI](https://github.com/rurfy/Sustainablity-AI)  # clone
+`git clone [https://github.com/rurfy/Sustainablity-AI](https://github.com/rurfy/Sustainablity-AI)  # clone\n
 cd yolov5
 pip install -r requirements.txt  # install`
 
